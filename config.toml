@@ -30,4 +30,3 @@ enableRobotsTXT = true
 [[params.ananke_socials]]
 name = "github"
 url = "https://github.com/Utah-Tech-Gamemakers"
-
